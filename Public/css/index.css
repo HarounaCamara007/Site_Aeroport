@@ -1,0 +1,20 @@
+body{
+background-image: url('../img/cover.png');
+background-size: cover;
+position: absolute;
+margin-bottom: 20px;
+}
+
+#formulaire_connexion{
+    position: relative;
+    left: 750px;
+    top: 265px;
+}
+
+#bouton_connexion{
+    position: relative;
+    margin-top: 10px;
+    left: 42px;
+}
+
+

@@ -1,0 +1,36 @@
+#logo{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 130px;
+  height: 80px;
+}
+
+.header{
+  border-top: 8px black double;
+  border-bottom: 8px black double;
+  margin-bottom: 20px;
+}
+
+body{
+  background-image: url('../img/nuage.jpg');
+  background-size: cover;
+}
+
+table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+td, th{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+
+
