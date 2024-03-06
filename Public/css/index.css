@@ -7,11 +7,23 @@ margin-bottom: 20px;
 
 #formulaire_connexion{
     position: relative;
-    left: 750px;
+    left: 650px;
     top: 265px;
 }
 
 #bouton_connexion{
+    position: relative;
+    margin-top: 10px;
+    left: 42px;
+}
+
+.form_inscription{
+    position: relative;
+    left: 1040px;
+    top: 99px;
+}
+
+#bouton_inscription{
     position: relative;
     margin-top: 10px;
     left: 42px;
